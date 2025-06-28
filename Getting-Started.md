@@ -17,7 +17,7 @@ Before even trying any code, I started exploring:
 - **What makes an agent 'autonomous' or 'interactive'?**
 - **How is an agent different from ChatGPT, Gemini, or DeepSeek?**
 
-These questions helped me realize that Agentic AI is not just about generating text — it's about creating systems that can reason, decide, and take actions using tools, memory, and logic.
+These questions helped me realize that Agentic AI is not just about generating text — it's about creating systems that can 'reason, decide, and take actions' using tools, memory, and logic.
 
 ---
 
@@ -28,7 +28,7 @@ Once I had some idea of what Agentic AI was, I started learning about the buildi
 - Tool usage (APIs, prompts, parsing data)
 - LangChain as a framework to build agents
 
-That’s when I created a small experiment: I connected a **weather API** with an LLM to simulate agent-like behavior — something that uses tools and generates helpful responses.
+That’s when I created a small experiment: I connected a "weather API" with an LLM to simulate agent-like behavior — something that uses tools and generates helpful responses.
 
 ---
 
