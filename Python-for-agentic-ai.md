@@ -51,7 +51,7 @@ Learning Python gave me the tools to:
 This foundation lets me **control the backend logic** behind my AI agents — not just prompt LLMs, but truly **build behavior**.
 
 
-## Resources That Helped Me
+## Resources
 
 - [CodeWithHarry](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&ab_channel=CodeWithHarry)
 - [TechWithTim](https://www.youtube.com/watch?v=Qb9s3UiMSTA&t=386s&ab_channel=TechWithTim)
