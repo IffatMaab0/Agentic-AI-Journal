@@ -11,33 +11,25 @@ LLMs couldn’t remember past interactions, take initiative, or fetch up-to-date
 
 ## What is Agentic AI?
 Agentic AI goes beyond passive text generation. It’s about creating AI systems that can:
-
-Perceive their environment (via input, sensors, APIs, etc.)
-
-Reason about the information using LLMs
-
-Act using tools or custom functions
-
-Learn from outcomes to improve future decisions
+- Perceive their environment (via input, sensors, APIs, etc.)
+- Reason about the information using LLMs
+- Act using tools or custom functions
+- Learn from outcomes to improve future decisions
 
 This cycle (often called PRAL: Perception → Reasoning → Action → Learning) transforms an LLM from a chatbot into a real digital agent — one that can think, act, and evolve in dynamic environments.
 
 ## The Magic Tool: LangChain
 To make all of this practical, I started learning LangChain, an open-source framework designed to build powerful LLM-based applications. It acts like the orchestrator, connecting models to memory, tools, and workflows.
+--> Here’s how I understood the core parts:
 
-Here’s how I understood the core parts:
+- Model I/O – A way to hook into any language model (OpenAI, Gemini, etc.)
+- Tools – APIs, calculators, code runners, databases — basically, anything the agent can use to act in the real     world.
+- Memory – Gives our agent the ability to remember things: conversations, past steps, or even its own mistakes.
 
-Model I/O – A way to hook into any language model (OpenAI, Gemini, etc.)
+## Chains vs. Agents:
 
-Tools – APIs, calculators, code runners, databases — basically, anything the agent can use to act in the real world.
-
-Memory – Gives our agent the ability to remember things: conversations, past steps, or even its own mistakes.
-
-Chains vs. Agents:
-
-Chains are like predefined pipelines — fixed steps, one after another.
-
-Agents are way smarter — they decide what to do next, choose tools dynamically, and handle more complex tasks without hardcoding everything.
+- Chains are like predefined pipelines — fixed steps, one after another.
+- Agents are way smarter — they decide what to do next, choose tools dynamically, and handle more complex tasks without hardcoding everything.
 
 ## What's Coming Next?
 Right now, I’m focusing on building single agents with memory and tools using LangChain. But soon, I’ll explore LangGraph, which lets multiple agents work together — like a team of experts solving problems collaboratively. Imagine agents debating, delegating, and planning — it’s like forming an AI Avengers squad
