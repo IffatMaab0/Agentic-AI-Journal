@@ -21,7 +21,6 @@ This cycle (often called PRAL: Perception → Reasoning → Action → Learning)
 ## The Magic Tool: LangChain
 To make all of this practical, I started learning LangChain, an open-source framework designed to build powerful LLM-based applications. It acts like the orchestrator, connecting models to memory, tools, and workflows.
 --> Here’s how I understood the core parts:
-
 - Model I/O – A way to hook into any language model (OpenAI, Gemini, etc.)
 - Tools – APIs, calculators, code runners, databases — basically, anything the agent can use to act in the real     world.
 - Memory – Gives our agent the ability to remember things: conversations, past steps, or even its own mistakes.
