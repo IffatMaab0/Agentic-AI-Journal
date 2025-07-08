@@ -38,7 +38,3 @@ As a beginner, I’m not focused on using every possible library — I care more
 
 > As a beginner, I focus more on **understanding why things work** than using too many tools.  
 > I prefer using free and beginner-friendly resources while slowly building my confidence in concepts like agents, LLM orchestration, and decision-making.
-
----
-
-This list will grow naturally as I learn and try more things — but I want to keep it helpful to someone like me.
