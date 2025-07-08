@@ -1,4 +1,4 @@
-# 🧰 Tools I’ve Used (Honestly)
+# Tools I’ve Used (Honestly)
 
 This file is a record of the tools and platforms I’ve tried while exploring Agentic AI.  
 As a beginner, I’m not focused on using every possible library — I care more about understanding the **concepts** and keeping things simple and resource-friendly.
