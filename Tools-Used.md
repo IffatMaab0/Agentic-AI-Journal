@@ -34,8 +34,6 @@ As a beginner, I’m not focused on using every possible library — I care more
 - AsyncIO (Haven’t used in Agentic AI projects yet)
 - Vector DBs (Still learning what they are)
 
----
-
 ##  My Learning Philosophy
 
 > As a beginner, I focus more on **understanding why things work** than using too many tools.  
