@@ -19,8 +19,6 @@ As a beginner, I’m not focused on using every possible library — I care more
 - Groq gave me access to powerful LLMs like GPT or Mixtral for free.
 - I passed the weather data to Groq and got natural-language explanations in return.
 
----
-
 ## Libraries
 
 ## Python Libraries I Actually Used
