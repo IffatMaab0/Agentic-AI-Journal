@@ -28,8 +28,6 @@ As a beginner, I’m not focused on using every possible library — I care more
 - `dotenv` — to keep my API keys safe
 - `os` — just used a bit for managing environment variables
 
----
-
 ##  Tools I Haven’t Used *Yet* (But Plan To)
 
 - Streamlit (I haven’t built any UI so far)
